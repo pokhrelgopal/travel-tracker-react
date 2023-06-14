@@ -1,0 +1,50 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 9844319890
+    },
+    {
+      "cityName": "Chaubise",
+      "country": "Middle of Nowhere",
+      "date": "2023-06-14T16:19:11.480Z",
+      "notes": "Nice",
+      "position": {
+        "lat": "26.868952938587093",
+        "lng": "87.56652832031251"
+      },
+      "id": 9844319891
+    },
+    {
+      "cityName": "Sintra",
+      "country": "Middle of Nowhere",
+      "date": "2023-06-14T16:26:27.171Z",
+      "notes": "Nice place.\n",
+      "position": {
+        "lat": "38.79759186594883",
+        "lng": "-9.398803710937502"
+      },
+      "id": 9844319892
+    }
+  ]
+}
